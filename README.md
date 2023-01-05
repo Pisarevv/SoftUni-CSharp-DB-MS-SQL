@@ -23,7 +23,7 @@ The course focuses heavily on the relational model, data modeling with ER diagra
 
 ## 🛠️Tools
 - Visual Studio <img align="center" style="margin:0.5rem" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" width="25" height="25"/>
-<img style="margin:0.9rem" src="https://img.icons8.com/color/512/microsoft-sql-server.png" width="55" height="50"/><img style="margin:0.9rem" src="https://github.com/DapperLib/Dapper/blob/main/Dapper.png" width="25" height=""/>
+<img style="margin:0.5rem" src="https://img.icons8.com/color/512/microsoft-sql-server.png" width="30" height="25"/>
 
 
 
